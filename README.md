@@ -1,4 +1,4 @@
 # Traffic-lights
-Arduino code for robotic arm
+Arduino code for traffic lights
 
 <img alt="ArduinoIMG" src="arduinoIMG.jpg">
